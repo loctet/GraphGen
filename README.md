@@ -41,7 +41,7 @@ java FSMVisualizer <source_json_file_path> <output_image_file_path>
 For example:
 
 ```bash
-java FSMVisualizer "D:/WorkSpace/Parser_Java/InputFiles/Examples/simpleMarketPlace_global.json" "D:/WorkSpace/Parser_Java/Output/simpleMarketPlace_global.png"
+java FSMVisualizer "simpleMarketPlace_global.json" "simpleMarketPlace_global.png"
 ```
 
 ## JSON File Format
