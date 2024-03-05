@@ -49,7 +49,7 @@ public class FSMVisualizer {
             		else {
             			String newPk = newParticipants.keySet().iterator().next();
                     	String newPV = newParticipants.getString(newPk);
-                    	caller = "new ".concat(firstC).concat(" : ").concat(newPV.toString());
+                    	caller = "ν ".concat(firstC).concat(" : ").concat(newPV.toString());
             		}
                 } else {
             		caller = "any ".concat(firstC).concat(" : ").concat(firstCV.get(0).toString());
